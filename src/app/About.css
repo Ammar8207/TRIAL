@@ -1,0 +1,19 @@
+body {
+    font-family: 'Nunito', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  /* Add all your CSS styles here (from the HTML file) */
+  
+  header {
+    background-color: #2E1A47;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+    font-size: 14px;
+  }
+  
+  /* Continue with other CSS styles... */
+  
